@@ -1,2 +1,4 @@
 majimagayokoniiru
 =================
+nanndemajimagayokoniirunokawakaranai 
+dousiteyokoniirunoka

@@ -1,4 +1,4 @@
-#define DDX_GCC_COMPILE
+﻿#define DDX_GCC_COMPILE
 #define DDX_NON_INLINE_ASM
 #include "DxLib.h"
 #include <math.h>
@@ -89,6 +89,6 @@ int WINAPI WinMain(HINSTANCE,HINSTANCE,LPSTR,int){
 
 
         WaitKey();      // キー入力待ち
-        DxLib_End();    // DXライブラリ終了処理
+        DxLib_End();    // DXライブラリ終了処理konnitiha
         return 0;
 }
